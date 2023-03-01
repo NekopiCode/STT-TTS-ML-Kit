@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPT_Voice</string>
+    <string name="speech_recognition_String">Start</string>
+    <string name="speech_recognition_prompt_text_String">Jetzt Sprechen</string>
+    <string name="speech_recognition_text_play_String">Play</string>
+    <string name="press_start_to_Speack_String">Press Start and Speak</string>
+</resources>
